@@ -1,6 +1,6 @@
 # jpa03-konarkv
 
-Running at: <(https://jpa03-konarkv.dokku-03.cs.ucsb.edu)>
+Running at: <https://jpa03-konarkv.dokku-03.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
